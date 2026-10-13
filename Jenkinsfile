@@ -6,6 +6,6 @@ pipeline {
             steps {
                 sh "mkdir test-branch"
             }
-        }
+        } 
     }
 }
